@@ -6,7 +6,7 @@
 
 Colony Clacker is a scaled down version of the awesome [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) by tanaes.
 
-Completely remoddeled from scratch (not just resized), with added stealthy aesthetics, improved tolerances, and STLs that have been optimised for best slicer performance with standard Voron print settings.
+Completely remodeled from scratch (not just resized), with added stealthy aesthetics, improved tolerances, and STLs that have been optimised for best slicer performance with standard Voron print settings.
 
 Provides the same satisfying clack when closing the door, whilst also increasing chamber temps, and reducing noise.
 
@@ -42,13 +42,15 @@ x2|350mm 1515 Aluminium Extrusion
 x2|280mm 1515 Aluminium Extrusion
 1x|3mm Acrylic or PC Panel - 330mm x 290mm
 
+Extrusions & hardware available from [DLLPDF](https://www.dllpdf.com/colony-clacker).
+
 ## Printing
 All parts should be correctly orientated and should be printed with Standard Voron print settings.
 
 ## Assembly
 Assembly is reletively self explanatory, the following images should help if you get stuck and can't access the CAD.
 
-** Ensure you superglue your magnets into the latch and the corresponding handle piece. **
+**Ensure you superglue your magnets into the latch and the corresponding handle piece.**
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/7-ColonyClacker_Handle%20AB_Latch.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/8-ColonyClacker_Handle_No%20Top.png)
@@ -63,11 +65,23 @@ There are currently some extended skirts for the following PFA Printers.
 Improving the overall aesthetic and screen access.
 (Others will be added as they are created)
 
-### * Micron+ with G2Z
-Stock BOM Hardware + 2x M3x5x4 Heatset Insert & 2x M3x8 BHCS for display bezel accents pieces.
+### Micron+ with G2Z
+Stock BOM Hardware, with the following additions for display bezel accents pieces:
+- 2x M3x5x4 Heatset Insert
+- 2x M3x8 BHCS
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_Skirts_cad.png)
 
 
 ## Version History
+
+### 10-Oct-24 - v1.1
+- Added missing chamfer to: `Top_Door_Mount_L_x2`
+- Added missing chamfer to: `Top_Door_Mount_R_x2`
+- Added STL: `[a]_Latch_Extra_Clearance`
+- Corrected naming of `[a]_Latch_Standard`
+- Corrected naming of `Top_Door_Mount_R_x2`
+- Updated CAD to reflect above
+- Updated readme
+
 ### 08-Oct-24
 Initial Release
