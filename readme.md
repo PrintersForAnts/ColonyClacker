@@ -24,16 +24,16 @@ Initially designed for Micron+, but will fit all 1515 based printers that use 3m
 ## BOM
 
 ### Hardware
-Qty|Item|Notes
----|----|---
-x14|M3x12 BHCS
-x4|M3X16 SHCS
-x2|M3x20 SHCS
-x14|M3 Hex Nut
-x4|M5 x 7mm x 8mm Split Bushing
-x4|5mm x 40mm Dowel Pin
-x8|6mm x 3mm N52 Magnet
-1.3M|3mm Foam Tape|2.5M for 2x seals on door
+Qty|Item|Notes|Links (Affiliate)
+---|----|----|---
+x14|M3x12 BHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp)
+x4|M3X16 SHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr)
+x2|M3x20 SHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr)
+x14|M3 Hex Nut| |[Aliexpress](https://s.click.aliexpress.com/e/_EwEY3Rf) ~ [Amazon](https://amzn.to/3NtQHXi)
+x4|M5 x 7mm x 8mm Split Bushing| |[Aliexpress](https://s.click.aliexpress.com/e/_EvcAzIV) ~ [Amazon](https://amzn.to/3Yrq8rT)
+x4|5mm x 40mm Dowel Pin| |[Aliexpress](https://s.click.aliexpress.com/e/_Ex91QWD) ~ [Amazon](https://amzn.to/40eAuNr)
+x8|6mm x 3mm N52 Magnet| |[Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD) ~ [Amazon](https://amzn.to/3YqHEga)
+1.3M|3mm Foam Tape|2.5M for 2x seals on door|[Aliexpress](https://s.click.aliexpress.com/e/_EzqH685) ~ [Amazon](https://s.click.aliexpress.com/e/_EzqH685)
 
 ### Micron+ Door
 Qty|Item
@@ -42,10 +42,14 @@ x2|350mm 1515 Aluminium Extrusion
 x2|280mm 1515 Aluminium Extrusion
 1x|3mm Acrylic or PC Panel - 330mm x 290mm
 
-Extrusions & hardware available from [DLLPDF](https://www.dllpdf.com/colony-clacker).
+Extrusions & hardware are also available from [DLLPDF](https://www.dllpdf.com/colony-clacker).
 
 ## Printing
 All parts should be correctly orientated and should be printed with Standard Voron print settings.
+
+There is an optional latch version with a larger surface area on the build plate if you get failed prints with the stock variant.
+
+The print orientation of the latch is intentional to ensure larer lines aren't in the same direction as the latching mechanism, and to keep the printed aesthetic matiching the other printed parts.
 
 ## Assembly
 Assembly is reletively self explanatory, the following images should help if you get stuck and can't access the CAD.
@@ -73,6 +77,14 @@ Stock BOM Hardware, with the following additions for display bezel accents piece
 
 
 ## Version History
+
+### 17-Oct-24 - v1.2
+- Added `Larger Surface Area Latch`
+`[a]_LSA_Latch_Extra_Clearance_x1` & `[a]_LSA_Latch_Standard_x1`
+Reduced fillet on corners to increase surface area on build plate, to reduce print failures due to intended print orientation
+- Corrected text on exploded image: `ColonyClacker_Handle_Latch_Hardware.png`, from 'M3x12 SHCS' to 'M3x12 BHCS'
+- Updated CAD to reflect above
+- Updated readme
 
 ### 10-Oct-24 - v1.1
 - Added missing chamfer to: `Top_Door_Mount_L_x2`
