@@ -34,6 +34,7 @@ x4|M5 x 7mm x 8mm Split Bushing| |[Aliexpress](https://s.click.aliexpress.com/e/
 x4|5mm x 40mm Dowel Pin| |[Aliexpress](https://s.click.aliexpress.com/e/_Ex91QWD) ~ [Amazon](https://amzn.to/40eAuNr)
 x8|6mm x 3mm N52 Magnet| |[Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD) ~ [Amazon](https://amzn.to/3YqHEga)
 1.3M|3mm Foam Tape|2.5M for 2x seals on door|[Aliexpress](https://s.click.aliexpress.com/e/_EzqH685) ~ [Amazon](https://s.click.aliexpress.com/e/_EzqH685)
+x4|Micron R1 Twist lock key|Printed key for `panel_corner_bracket.stl`|[[a]_twist_lock_key.stl](https://github.com/PrintersForAnts/Micron/blob/main/R1_Beta/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl)
 
 ### Micron+ Door
 Qty|Item
@@ -43,6 +44,8 @@ x2|280mm 1515 Aluminium Extrusion
 1x|3mm Acrylic or PC Panel - 330mm x 290mm
 
 Extrusions & hardware are also available from [DLLPDF](https://www.dllpdf.com/colony-clacker).
+
+
 
 ## Printing
 All parts should be correctly orientated and should be printed with Standard Voron print settings.
@@ -78,7 +81,10 @@ Stock BOM Hardware, with the following additions for display bezel accents piece
 
 ## Version History
 
-### 17-Oct-24 - v1.2
+### 12-Mar-25
+- Fixed Issue [#1](https://github.com/PrintersForAnts/ColonyClacker/issues/1)
+
+### 17-Oct-24
 - Added `Larger Surface Area Latch`
 `[a]_LSA_Latch_Extra_Clearance_x1` & `[a]_LSA_Latch_Standard_x1`
 Reduced fillet on corners to increase surface area on build plate, to reduce print failures due to intended print orientation
@@ -86,7 +92,7 @@ Reduced fillet on corners to increase surface area on build plate, to reduce pri
 - Updated CAD to reflect above
 - Updated readme
 
-### 10-Oct-24 - v1.1
+### 10-Oct-24
 - Added missing chamfer to: `Top_Door_Mount_L_x2`
 - Added missing chamfer to: `Top_Door_Mount_R_x2`
 - Added STL: `[a]_Latch_Extra_Clearance`
