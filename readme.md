@@ -1,63 +1,75 @@
-## Colony Clacker
+# 🐜 Colony Clacker
 
-### A 'Clicky-Clack Fridge Door' inspired, clicky clacking door for the colony of Printers for Ants!
+*A satisfyingly clicky door upgrade for your Printers for Ants colony—because even tiny printers deserve a proper "clack"!*
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/1-Colony%20Clacker_Full.png)
 
-Colony Clacker is a scaled down version of the awesome [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) by tanaes.
+---
 
-Completely remodeled from scratch (not just resized), with added stealthy aesthetics, improved tolerances, and STLs that have been optimised for best slicer performance with standard Voron print settings.
+## 🚪 What is Colony Clacker?
 
-Provides the same satisfying clack when closing the door, whilst also increasing chamber temps, and reducing noise.
+Inspired by the popular [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) mod by tanaes, **Colony Clacker** is specially designed for Printers for Ants (PFA), and other 1515 based printers.
 
-Initially designed for Micron+, but will fit all 1515 based printers that use 3mm foam tape, with 3mm Panels.
+Completely remodeled from scratch (not just scaled), it boasts enhanced stealth aesthetics, improved tolerances, and optimized STLs for easy printing using standard Voron settings.
 
-1mm foam variants in the works... stay tuned.
-
-[See the Clacky action here.](https://youtube.com/shorts/yi75DsFQ0eI?si=P8Z4A60wTr4WiRiI)
+[Watch the satisfying Clack in action!](https://youtube.com/shorts/yi75DsFQ0eI?si=P8Z4A60wTr4WiRiI)
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/2-ColonyClacker_Full_Handle.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/3-ColonyClacker_Full_Hinges.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/4-ColonyClacker_Handle.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/5-ColonyClacker_Bottom%20Hinge.png)
 
-## BOM
+---
 
-### Hardware
-Qty|Item|Notes|Links (Affiliate)
----|----|----|---
-x14|M3x12 BHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp)
-x4|M3X16 SHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr)
-x2|M3x20 SHCS| |[Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr)
-x14|M3 Hex Nut| |[Aliexpress](https://s.click.aliexpress.com/e/_EwEY3Rf) ~ [Amazon](https://amzn.to/3NtQHXi)
-x4|M5 x 7mm x 8mm Split Bushing| |[Aliexpress](https://s.click.aliexpress.com/e/_EvcAzIV) ~ [Amazon](https://amzn.to/3Yrq8rT)
-x4|5mm x 40mm Dowel Pin| |[Aliexpress](https://s.click.aliexpress.com/e/_Ex91QWD) ~ [Amazon](https://amzn.to/40eAuNr)
-x8|6mm x 3mm N52 Magnet| |[Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD) ~ [Amazon](https://amzn.to/3YqHEga)
-1.3M|3mm Foam Tape|2.5M for 2x seals on door|[Aliexpress](https://s.click.aliexpress.com/e/_EzqH685) ~ [Amazon](https://s.click.aliexpress.com/e/_EzqH685)
-x4|Micron R1 Twist lock key|Printed key for `panel_corner_bracket.stl`|[[a]_twist_lock_key.stl](https://github.com/PrintersForAnts/Micron/blob/main/R1_Beta/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl)
+## 📦 Bill of Materials
 
-### Micron+ Door
-Qty|Item
----|---
-x2|350mm 1515 Aluminium Extrusion
-x2|280mm 1515 Aluminium Extrusion
-1x|3mm Acrylic or PC Panel - 330mm x 290mm
+### 🛠️ Hardware
+| Qty   | Item  | Notes  | Purchase Links  |
+| :---: | :---- | :----- | :-------------- |
+| 14    | M3x12 BHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp) |
+| 4     | M3x16 SHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr) |
+| 2     | M3x20 SHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr) |
+| 14    | M3 Hex Nut |  | [Aliexpress](https://s.click.aliexpress.com/e/_EwEY3Rf), [Amazon](https://amzn.to/3NtQHXi) |
+| 4     | M5 x 7mm x 8mm Split Bushing |  | [Aliexpress](https://s.click.aliexpress.com/e/_EvcAzIV), [Amazon](https://amzn.to/3Yrq8rT) |
+| 4     | 5mm x 40mm Dowel Pin |  | [Aliexpress](https://s.click.aliexpress.com/e/_Ex91QWD), [Amazon](https://amzn.to/40eAuNr) |
+| 8     | 6mm x 3mm N52 Magnet |  | [Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD), [Amazon](https://amzn.to/3YqHEga) |
+| 1.3M  | 3mm Foam Tape | 2.5M required for double seals | [Aliexpress/Amazon](https://s.click.aliexpress.com/e/_EzqH685) |
+| 4     | Micron R1 Twist Lock Key | Printed component | [STL File](https://github.com/PrintersForAnts/Micron/blob/main/R1_Beta/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl) |
 
-Extrusions & hardware are also available from [DLLPDF](https://www.dllpdf.com/colony-clacker).
+### 📐 Micron+ Door Parts
+| Qty   | Item |
+| :---: | :---- |
+| 2     | 350mm 1515 Aluminium Extrusion |
+| 2     | 280mm 1515 Aluminium Extrusion |
+| 1     | 3mm Acrylic or PC Panel - 330mm x 290mm |
 
+*Extrusions & hardware available at [DLLPDF](https://www.dllpdf.com/colony-clacker).*
 
+---
 
-## Printing
-All parts should be correctly orientated and should be printed with Standard Voron print settings.
+## Print Recommendations
 
-There is an optional latch version with a larger surface area on the build plate if you get failed prints with the stock variant.
+**All STLs should be correctly oriented for printing.**
 
-The print orientation of the latch is intentional to ensure larer lines aren't in the same direction as the latching mechanism, and to keep the printed aesthetic matiching the other printed parts.
+- **Material**: ABS or ASA
+- **Infill**: 40% (Grid, Gyroid, Honeycomb, Triangle or Cubic)
+- **Supports**: Not required
+- **Layer Height**: 0.2mm (Including first layer)
+- **Wall Count**: 4
+- **Extrusion Width**: Forced 0.4mm
+- **Solid Top/Bottom Layers**: 5
 
-## Assembly
-Assembly is reletively self explanatory, the following images should help if you get stuck and can't access the CAD.
+- Optional latch variant (`Larger Surface Area Latch`) is included for improved print reliability.
 
-**Ensure you superglue your magnets into the latch and the corresponding handle piece.**
+---
+
+## 🛠️ Assembly Instructions
+Assembly is intuitive. Use the provided images for visual guidance if you encounter difficulties.
+
+**Important:**
+- Superglue magnets securely into the latch and corresponding handle piece.
+- Follow the detailed hardware orientation in assembly images.
+- On initial build, you may experience less clacking, this is usually due to the foam neededing to settle, or the 2x screws in the latch being too tight.
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/7-ColonyClacker_Handle%20AB_Latch.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/8-ColonyClacker_Handle_No%20Top.png)
@@ -67,39 +79,52 @@ Assembly is reletively self explanatory, the following images should help if you
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_HingeBottom_Hardware.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_HingeTop_Hardware.png)
 
-## Optional Skirts
+---
+
+## 🎨 Optional Skirts 
 There are currently some extended skirts for the following PFA Printers.
 Improving the overall aesthetic and screen access.
 (Others will be added as they are created)
 
-### Micron+ with G2Z
-Stock BOM Hardware, with the following additions for display bezel accents pieces:
-- 2x M3x5x4 Heatset Insert
-- 2x M3x8 BHCS
+**Micron+ (G2Z)**  
+
+| Qty   | Additional Hardware     |
+|:-----:|:------------------------|
+| 2     | M3x5x4 Heatset Insert   |
+| 2     | M3x8 BHCS               |
+
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_Skirts_cad.png)
 
+---
 
-## Version History
+## Feedback & Discussion  
 
-### 12-Mar-25
-- Fixed Issue [#1](https://github.com/PrintersForAnts/ColonyClacker/issues/1)
+If you're building a Colony Clacker, I'd love to hear your thoughts! 
 
-### 17-Oct-24
-- Added `Larger Surface Area Latch`
-`[a]_LSA_Latch_Extra_Clearance_x1` & `[a]_LSA_Latch_Standard_x1`
-Reduced fillet on corners to increase surface area on build plate, to reduce print failures due to intended print orientation
-- Corrected text on exploded image: `ColonyClacker_Handle_Latch_Hardware.png`, from 'M3x12 SHCS' to 'M3x12 BHCS'
-- Updated CAD to reflect above
-- Updated readme
+Join the discussion, suggest improvements, or share feedback in the 'KyleGB' channel on the Doomcube Discord.  
 
-### 10-Oct-24
-- Added missing chamfer to: `Top_Door_Mount_L_x2`
-- Added missing chamfer to: `Top_Door_Mount_R_x2`
-- Added STL: `[a]_Latch_Extra_Clearance`
-- Corrected naming of `[a]_Latch_Standard`
-- Corrected naming of `Top_Door_Mount_R_x2`
-- Updated CAD to reflect above
-- Updated readme
+---
 
-### 08-Oct-24
-Initial Release
+## Raising Issues
+If you encounter any issues, please report them via the Issues section on the Git repository. 
+
+Be as detailed as possible, include steps to reproduce, and relevant images or screenshots. 
+
+Your feedback helps improve Colony Clacker for everyone!
+
+---
+
+## 📜 Version History
+
+| Date       | Change Details                                                |
+|------------|---------------------------------------------------------------|
+| 13-Mar-25  | Clean-up `readme.md` |
+| 12-Mar-25  | Fixed Issue [#1](https://github.com/PrintersForAnts/ColonyClacker/issues/1) |
+| 17-Oct-24  | Added Larger Surface Area latch variants; Corrected hardware details |
+| 10-Oct-24  | Added missing chamfers; Improved STL naming clarity          |
+| 08-Oct-24  | Initial Release 🎉                                             |
+
+---
+
+Enjoy your clicky-clacky Colony Clacker! 🐜✨
+
