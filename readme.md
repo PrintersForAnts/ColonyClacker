@@ -4,6 +4,27 @@
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/1-Colony%20Clacker_Full.png)
 
+<p align="center">
+  <a aria-label="Stars" href="https://github.com/PrintersForAnts/ColonyClacker/stargazers">
+    <img src="https://img.shields.io/github/stars/PrintersForAnts/ColonyClacker?style=for-the-badge&logo=github&logoColor=%23FFFF00&labelColor=%2363666a&color=%23FFFF00"></a> &nbsp;
+
+  <a aria-label="Forks" href="https://github.com/PrintersForAnts/ColonyClacker/network/members">
+    <img src="https://img.shields.io/github/forks/PrintersForAnts/ColonyClacker?style=for-the-badge&logo=github&logoColor=%23FFFF00&labelColor=%2363666a&color=%23FFFF00"></a> &nbsp;
+
+  <a aria-label="License" href="https://github.com/PrintersForAnts/ColonyClacker/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/PrintersForAnts/ColonyClacker?style=for-the-badge&logo=opensourcehardware&logoColor=%23FFFF00&labelColor=%2363666a&color=%23FFFF00"></a> &nbsp;
+
+  <a aria-label="Commits" href="https://github.com/PrintersForAnts/ColonyClacker/commits/main">
+    <img src="https://img.shields.io/github/commit-activity/y/PrintersForAnts/ColonyClacker?style=for-the-badge&logo=github&logoColor=%23FFFF00&labelColor=%2363666a&color=%23FFFF00"></a> &nbsp;
+
+  <a aria-label="Discord" href="https://discord.gg/doomcube">
+    <img alt="Discord" src="https://img.shields.io/discord/825469421346226226?style=for-the-badge&logo=discord&logoColor=%23FFFF00&label=Discord&labelColor=%2363666a&color=%23FFFF00"></a>
+
+<a aria-label="Last Commit" href="https://github.com/PrintersForAnts/ColonyClacker/commits/main">
+  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/PrintersForAnts/ColonyClacker?style=for-the-badge&logo=github&logoColor=%23FFFF00&labelColor=%2363666a&color=%23FFFF00">
+</a>
+</p>
+
 ---
 
 ## 🚪 What is Colony Clacker?
