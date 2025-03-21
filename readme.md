@@ -116,6 +116,18 @@ Improving the overall aesthetic and screen access.
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_Skirts_cad.png)
 
+**Micron+ (Stock Z)**
+
+| Qty   | Additional Hardware     |
+|:-----:|:------------------------|
+| 4     | M3x5x4 Heatset Insert   |
+| 4     | M3x8 BHCS               |
+| 8     | M2 STS
+
+![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts v7.png)
+
+![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
+
 ---
 
 ## Feedback & Discussion  
@@ -139,6 +151,7 @@ Your feedback helps improve Colony Clacker for everyone!
 
 | Date       | Change Details                                                |
 |------------|---------------------------------------------------------------|
+| 21-Mar-25  | Added Micron R1 Stock Z Skirts.<br>Added v1.1 of Micron+ G2Z skirts - 2mm clearance added for door.<br>Moved v1 files to archive folder.
 | 13-Mar-25  | Clean-up `readme.md` |
 | 12-Mar-25  | Fixed Issue [#1](https://github.com/PrintersForAnts/ColonyClacker/issues/1) |
 | 17-Oct-24  | Added Larger Surface Area latch variants; Corrected hardware details |
