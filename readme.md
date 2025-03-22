@@ -150,6 +150,7 @@ Your feedback helps improve Colony Clacker for everyone!
 
 | Date       | Change Details                                                |
 |------------|---------------------------------------------------------------|
+| 22-Mar-25  | Fixed missing heatset hole on `skirt_main_body.stl`, relocated screw for better clearance from M2x10 STS (Thanks dajones89) 
 | 21-Mar-25  | Added Micron R1 Stock Z Skirts.<br>Added v1.1 of Micron+ G2Z skirts - 2mm clearance added for door.<br>Moved v1 files to archive folder.
 | 13-Mar-25  | Clean-up `readme.md` |
 | 12-Mar-25  | Fixed Issue [#1](https://github.com/PrintersForAnts/ColonyClacker/issues/1) |
