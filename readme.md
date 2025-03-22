@@ -124,7 +124,7 @@ Improving the overall aesthetic and screen access.
 | 4     | M3x8 BHCS               |
 | 8     | M2 STS
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts v7.png)
+![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
 
