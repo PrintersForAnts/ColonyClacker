@@ -114,7 +114,7 @@ Improving the overall aesthetic and screen access.
 | 2     | M3x5x4 Heatset Insert   |
 | 2     | M3x8 BHCS               |
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_Skirts_cad.png)
+![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_G2Z_Skirts_cad.png)
 
 **Micron+ (Stock Z)**
 
@@ -125,7 +125,6 @@ Improving the overall aesthetic and screen access.
 | 8     | M2 STS
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
-
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
 
 ---
