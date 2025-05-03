@@ -58,7 +58,7 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 | 4     | 5mm x 40mm Dowel Pin |  | [Aliexpress](https://s.click.aliexpress.com/e/_Ex91QWD), [Amazon](https://amzn.to/40eAuNr) |
 | 8     | 6mm x 3mm N52 Magnet |  | [Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD), [Amazon](https://amzn.to/3YqHEga) |
 | 1.3M  | 3mm Foam Tape | 2.5M required for double seals | [Aliexpress/Amazon](https://s.click.aliexpress.com/e/_EzqH685) |
-| 4     | Micron R1 Twist Lock Key | Printed component | [STL File](https://github.com/PrintersForAnts/Micron/blob/main/R1_Beta/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl) |
+| 4     | Micron R1 Twist Lock Key | Printed component | [STL File](https://github.com/PrintersForAnts/Micron/blob/main/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl) |
 
 ### 📐 Micron+ Door Parts
 | Qty   | Item |
