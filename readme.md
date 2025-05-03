@@ -1,3 +1,5 @@
+> ### ** LDO Micron+ Colony Clacker kits are now available, speak to your local vendor for availability! **
+
 # 🐜 Colony Clacker
 
 *A satisfyingly clicky door upgrade for your Printers for Ants colony—because even tiny printers deserve a proper "clack"!*
@@ -31,7 +33,7 @@
 
 Inspired by the popular [Clicky-Clack Fridge Door](https://github.com/tanaes/whopping_Voron_mods/tree/main/clickyclacky_door) mod by tanaes, **Colony Clacker** is specially designed for Printers for Ants (PFA), and other 1515 based printers.
 
-Completely remodeled from scratch (not just scaled), it boasts enhanced stealth aesthetics, improved tolerances, and optimized STLs for easy printing using standard Voron settings.
+Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy aesthetics, improved tolerances, and optimized STLs for top quality printing using standard Voron settings.
 
 [Watch the satisfying Clack in action!](https://youtube.com/shorts/yi75DsFQ0eI?si=P8Z4A60wTr4WiRiI)
 
@@ -43,6 +45,7 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealth 
 ---
 
 ## 📦 Bill of Materials
+*If you intend to use the optional extended skirts, additional hardware for these is listed further down the page, in the corresponding skirt sections.*
 
 ### 🛠️ Hardware
 | Qty   | Item  | Notes  | Purchase Links  |
@@ -80,7 +83,7 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealth 
 - **Extrusion Width**: Forced 0.4mm
 - **Solid Top/Bottom Layers**: 5
 
-- Optional latch variant (`Larger Surface Area Latch`) is included for improved print reliability.
+- Optional latch variant (`Larger Surface Area Latch`) is included for improved print reliability, if the stock one fails. 
 
 ---
 
@@ -88,8 +91,8 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealth 
 Assembly is intuitive. Use the provided images for visual guidance if you encounter difficulties.
 
 **Important:**
-- Superglue magnets securely into the latch and corresponding handle piece.
-- Follow the detailed hardware orientation in assembly images.
+- Superglue magnets securely into the latch and corresponding handle piece
+- Hardware locations can be seen in the assembly images below.
 - On initial build, you may experience less clacking, this is usually due to the foam neededing to settle, or the 2x screws in the latch being too tight.
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/7-ColonyClacker_Handle%20AB_Latch.png)
@@ -122,7 +125,7 @@ Improving the overall aesthetic and screen access.
 |:-----:|:------------------------|
 | 4     | M3x5x4 Heatset Insert   |
 | 4     | M3x8 BHCS               |
-| 8     | M2 STS
+| 8     | M2x10 STS               |
 
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
@@ -160,5 +163,5 @@ Your feedback helps improve Colony Clacker for everyone!
 
 ---
 
-Enjoy your clicky-clacky Colony Clacker! 🐜✨
+Enjoy your clicky-clacking Colony Clacker! 🐜✨
 
