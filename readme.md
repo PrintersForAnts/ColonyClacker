@@ -60,12 +60,29 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 | 1.3M  | 3mm Foam Tape | 2.5M required for double seals | [Aliexpress/Amazon](https://s.click.aliexpress.com/e/_EzqH685) |
 | 4     | Micron R1 Twist Lock Key | Printed component | [STL File](https://github.com/PrintersForAnts/Micron/blob/main/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl) |
 
-### 📐 Micron+ Door Parts
+## 📐 Door Parts
+
+### Micron+
 | Qty   | Item |
 | :---: | :---- |
 | 2     | 350mm 1515 Aluminium Extrusion |
 | 2     | 280mm 1515 Aluminium Extrusion |
 | 1     | 3mm Acrylic or PC Panel - 330mm x 290mm |
+
+### StealthFork 180
+| Qty   | Item |
+| :---: | :---- |
+| 2     | 400mm 1515 Aluminium Extrusion |
+| 2     | 290mm 1515 Aluminium Extrusion |
+| 1     | 3mm Acrylic or PC Panel - 380mm x 300mm |
+
+### StealthFork 160
+| Qty   | Item |
+| :---: | :---- |
+| 2     | 400mm 1515 Aluminium Extrusion |
+| 2     | 270mm 1515 Aluminium Extrusion |
+| 1     | 3mm Acrylic or PC Panel - 380mm x 280mm |
+
 
 *Extrusions & hardware available at [DLLPDF](https://www.dllpdf.com/colony-clacker).*
 
@@ -130,6 +147,15 @@ Improving the overall aesthetic and screen access.
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
 ![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
 
+**StealthFork**
+
+| Qty   | Additional Hardware     |
+|:-----:|:------------------------|
+| 4     | M3x5x4 Heatset Insert   |
+| 4     | M3x8 BHCS               |
+
+![](./Images/CC_StF_Skirts.png)
+
 ---
 
 ## Feedback & Discussion  
@@ -153,6 +179,7 @@ Your feedback helps improve Colony Clacker for everyone!
 
 | Date       | Change Details                                                |
 |------------|---------------------------------------------------------------|
+| 24-May-25  | Added StealthFork 160 & 180 Skirts<br>Added TFT35 Display Mount<br>Moved Micron+ Stock Z Skirts CAD to archive
 | 22-Mar-25  | Fixed missing heatset hole on `skirt_main_body.stl`, relocated screw for better clearance from M2x10 STS (Thanks dajones89) 
 | 21-Mar-25  | Added Micron R1 Stock Z Skirts.<br>Added v1.1 of Micron+ G2Z skirts - 2mm clearance added for door.<br>Moved v1 files to archive folder.
 | 13-Mar-25  | Clean-up `readme.md` |
