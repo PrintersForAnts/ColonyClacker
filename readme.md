@@ -50,7 +50,8 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 ### 🛠️ Hardware
 | Qty   | Item  | Notes  | Purchase Links  |
 | :---: | :---- | :----- | :-------------- |
-| 14    | M3x12 BHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp) |
+| 4     | M3x8 BHCS | For blind joints | [Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp) |
+| 10    | M3x12 BHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_Exdxtsp) |
 | 4     | M3x16 SHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr) |
 | 2     | M3x20 SHCS |  | [Aliexpress](https://s.click.aliexpress.com/e/_EGPNidr) |
 | 14    | M3 Hex Nut |  | [Aliexpress](https://s.click.aliexpress.com/e/_EwEY3Rf), [Amazon](https://amzn.to/3NtQHXi) |
@@ -59,6 +60,8 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 | 8     | 6mm x 3mm N52 Magnet |  | [Aliexpress](https://s.click.aliexpress.com/e/_EIDUzuD), [Amazon](https://amzn.to/3YqHEga) |
 | 1.3M  | 3mm Foam Tape | 2.5M required for double seals | [Aliexpress/Amazon](https://s.click.aliexpress.com/e/_EzqH685) |
 | 4     | Micron R1 Twist Lock Key | Printed component | [STL File](https://github.com/PrintersForAnts/Micron/blob/main/STLs/Panels/%5Ba%5D_twist_lock_key_x50.stl) |
+
+> ### *Note* - LDO Rev1 kits will be shipped with M3x12 BHCS for the blind joints, these may need swapping out for M3x8 BHCS if the threads seem tight part way through.
 
 ## 📐 Door Parts
 
