@@ -1,6 +1,6 @@
 Took the work that @BlindBadger started and modified it for the CC mod from the amazing Jadecky 
 
-![Alt text of the image](https://github.com/GearNut/ColonyClacker/main/Usermods/Gear_Nut/BTTHMDI5/Images/Front_Open.jpg)
+![Alt text of the image](https://github.com/GearNut/ColonyClacker/blob/main/Usermods/Gear_Nut/BTTHMDI5/Images/Front.jpg)
 
 I have included the stl for the bezel and screen though I made no changes to those from BlindBadgers work. 
 
