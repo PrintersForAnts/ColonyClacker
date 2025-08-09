@@ -1,10 +1,10 @@
-> ### ** LDO Micron+ Colony Clacker kits are now available, speak to your local vendor for availability! **
+### ** LDO Micron+ Colony Clacker kits are now available, speak to your local vendor for availability! **
 
 # 🐜 Colony Clacker
 
 *A satisfyingly clicky door upgrade for your Printers for Ants colony—because even tiny printers deserve a proper "clack"!*
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/1-Colony%20Clacker_Full.png)
+![](./Images/1-Colony%20Clacker_Full.png)
 
 <p align="center">
   <a aria-label="Stars" href="https://github.com/PrintersForAnts/ColonyClacker/stargazers">
@@ -37,10 +37,10 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 
 [Watch the satisfying Clack in action!](https://youtube.com/shorts/yi75DsFQ0eI?si=P8Z4A60wTr4WiRiI)
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/2-ColonyClacker_Full_Handle.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/3-ColonyClacker_Full_Hinges.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/4-ColonyClacker_Handle.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/5-ColonyClacker_Bottom%20Hinge.png)
+![](./Images/2-ColonyClacker_Full_Handle.png)
+![](./Images/3-ColonyClacker_Full_Hinges.png)
+![](./Images/4-ColonyClacker_Handle.png)
+![](./Images/5-ColonyClacker_Bottom%20Hinge.png)
 
 ---
 
@@ -93,17 +93,31 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 
 ## Print Recommendations
 
-**All STLs should be correctly oriented for printing.**
+**All STLs are oriented for printing.**
 
-- **Material**: ABS or ASA
-- **Infill**: 40% (Grid, Gyroid, Honeycomb, Triangle or Cubic)
-- **Supports**: Not required
-- **Layer Height**: 0.2mm (Including first layer)
-- **Wall Count**: 4
-- **Extrusion Width**: Forced 0.4mm
-- **Solid Top/Bottom Layers**: 5
+- **Material:** ABS or ASA
+- **Layer height:** 0.20 mm (including first layer)
+- **Wall count:** 4
+- **Extrusion width:** 0.40 mm (forced)
+- **Top/bottom solid layers:** 5
+- **Infill:** 40% (Grid, Gyroid, Honeycomb, Triangle, or Cubic)
+- **Supports:** Not required
 
-- Optional latch variant (`Larger Surface Area Latch`) is included for improved print reliability, if the stock one fails. 
+---
+
+### Latch Variants
+
+Provided in multiple offsets to suit different panel/foam thicknesses. The required frame‑to‑door distance is embossed on the back of each STL (e.g., **6** = **6 mm**).
+
+![](./Images/latch_variants.png)
+
+---
+
+### Handle_C Logo Variants
+
+Handle_C versions are available with logos from various brands and printers, allowing you to customise your build.
+
+![](./Images/handle_c_logos.png)
 
 ---
 
@@ -113,15 +127,15 @@ Assembly is intuitive. Use the provided images for visual guidance if you encoun
 **Important:**
 - Superglue magnets securely into the latch and corresponding handle piece
 - Hardware locations can be seen in the assembly images below.
-- On initial build, you may experience less clacking, this is usually due to the foam neededing to settle, or the 2x screws in the latch being too tight.
+- On initial build, you may experience less clacking, this is usually due to the foam needing to settle, or the 2x screws in the latch being too tight.
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/7-ColonyClacker_Handle%20AB_Latch.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/8-ColonyClacker_Handle_No%20Top.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Handle_AB_Hardware.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Handle_C_Hardware.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Handle_Latch_Hardware.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_HingeBottom_Hardware.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_HingeTop_Hardware.png)
+![](./Images/7-ColonyClacker_Handle%20AB_Latch.png)
+![](./Images/8-ColonyClacker_Handle_No%20Top.png)
+![](./Images/ColonyClacker_Handle_AB_Hardware.png)
+![](./Images/ColonyClacker_Handle_C_Hardware.png)
+![](./Images/ColonyClacker_Handle_Latch_Hardware.png)
+![](./Images/ColonyClacker_HingeBottom_Hardware.png)
+![](./Images/ColonyClacker_HingeTop_Hardware.png)
 
 ---
 
@@ -137,7 +151,7 @@ Improving the overall aesthetic and screen access.
 | 2     | M3x5x4 Heatset Insert   |
 | 2     | M3x8 BHCS               |
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/ColonyClacker_Micron_G2Z_Skirts_cad.png)
+![](./Images/ColonyClacker_Micron_G2Z_Skirts_cad.png)
 
 **Micron+ (Stock Z)**
 
@@ -147,8 +161,8 @@ Improving the overall aesthetic and screen access.
 | 4     | M3x8 BHCS               |
 | 8     | M2x10 STS               |
 
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
-![](https://github.com/PrintersForAnts/ColonyClacker/blob/main/Images/CC_MicronPlus_StockZ_Skirts_rear.png)
+![](./Images/CC_MicronPlus_StockZ_Skirts%20v7.png)
+![](./Images/CC_MicronPlus_StockZ_Skirts_rear.png)
 
 **StealthFork**
 
@@ -182,6 +196,7 @@ Your feedback helps improve Colony Clacker for everyone!
 
 | Date       | Change Details                                                |
 |------------|---------------------------------------------------------------|
+| 09-Aug-25  | Added new latch, updated for better printability with variants for panel distnce.<br>Added Handle_C logo variants.<br>CAD updated with LDO extrusions to match kits.
 | 24-May-25  | Added StealthFork 160 & 180 Skirts<br>Added TFT35 Display Mount<br>Moved Micron+ Stock Z Skirts CAD to archive
 | 22-Mar-25  | Fixed missing heatset hole on `skirt_main_body.stl`, relocated screw for better clearance from M2x10 STS (Thanks dajones89) 
 | 21-Mar-25  | Added Micron R1 Stock Z Skirts.<br>Added v1.1 of Micron+ G2Z skirts - 2mm clearance added for door.<br>Moved v1 files to archive folder.
@@ -194,4 +209,3 @@ Your feedback helps improve Colony Clacker for everyone!
 ---
 
 Enjoy your clicky-clacking Colony Clacker! 🐜✨
-

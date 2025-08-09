@@ -17,3 +17,4 @@ like so:
 | Creator | Mod title | Description |
 | --- | --- | --- |
 |CabbageCorp| [**Mini Monolith Colony Clacker**](https://github.com/PrintersForAnts/ColonyClacker/tree/main/Usermods/CabbageCorp/Mini%20Monolith%20ColonyClacker)| Mini Monolith compatible Colony Clacker hinge & latch |
+|GearNut|[**BTT HDMI5 Display Mount**](https://github.com/PrintersForAnts/ColonyClacker/tree/main/Usermods/Gear_Nut/BTTHMDI5)| Display mount & Bezel for BTT HDMI5 display
