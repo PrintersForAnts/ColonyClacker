@@ -27,6 +27,20 @@
 </a>
 </p>
 
+## Table of Contents
+
+- [🚪 What is Colony Clacker?](#-what-is-colony-clacker)
+- [📦 Bill of Materials](#-bill-of-materials)
+- [📐 Door Parts](#-door-parts)
+- [Print Recommendations](#print-recommendations)
+- [Latch Variants](#latch-variants)
+- [Handle_C Logo Variants](#handle_c-logo-variants)
+- [🛠️ Assembly Instructions](#️-assembly-instructions)
+- [🎨 Optional Skirts](#-optional-skirts)
+- [Feedback & Discussion](#feedback--discussion)
+- [Raising Issues](#raising-issues)
+- [📜 Version History](#-version-history)
+
 ---
 
 ## 🚪 What is Colony Clacker?
