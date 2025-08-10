@@ -1,10 +1,6 @@
-### ** LDO Micron+ Colony Clacker kits are now available, speak to your local vendor for availability! **
-
 # 🐜 Colony Clacker
 
-<p align="center">
 ![](./Images/1-Colony%20Clacker_Full.png)
-</p>
 
 *A satisfyingly clicky door upgrade for your Printers for Ants colony—because even tiny printers deserve a proper "clack"!*
 
