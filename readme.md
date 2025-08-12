@@ -121,8 +121,9 @@ Completely remodeled from scratch (not just scaled), it boasts enhanced stealthy
 
 | Country | Vendor | Notes |
 |:--:|:--|:--|
-| 🇬🇧 | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-colony-clacker-kit-for-micron/?srsltid=AfmBOopn2LhqcPr6725-6jhj6n4sWtnOe5NCcQFB0FyBYR1QrFkpwWUO) | LDO Kit |
+| 🇬🇧 | [OneTwo3D](https://www.onetwo3d.co.uk/product/ldo-colony-clacker-kit-for-micron/?wpam_id=11) | LDO Kit (Affiliate Link) |
 | 🇬🇧 | [ViperWorx](https://www.viperworx.uk/product/colony-clacker-door-panel-for-micron?srsltid=AfmBOoqP7Lh6lEkwc5ujIHUyIHN8ufw18zYcrOltradAb_M9-r3-IeA5&v=7885444af42e) | Panel Only |
+| 🇪🇺 | [MyRigs](https://myrigs3d.com/collections/printer-for-ants/products/ldo-colony-clacker-kit-for-micron) | LDO Kit |
 | 🇺🇸 | [DLLPDF](https://www.dllpdf.com/colony-clacker) | Extrusions, hardware, panels |
 | 🇺🇸 | [Fabreeko](https://www.fabreeko.com/products/ldo-micron-160-180-colony-clacker-door-kit-1?_pos=1&_psq=colony&_ss=e&_v=1.0) | LDO Kit, + Optional Panel |
 | 🇺🇸  | [West3D](https://west3d.com/products/colony-clacker-door-kit-for-micron-with-or-without-panel-fridge-door-clicky-clack?variant=46596673405140&srsltid=AfmBOooYESZwlSvJIZdUtGRNu72rgrEzlAKoDMDHGPHMUeYTYAMJaiXn) | LDO Kit |
